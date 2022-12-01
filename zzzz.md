@@ -20,3 +20,15 @@ $ python3 -m pytest
 $ python3 -m pytest -k nome_da_func_de_tests
 3 - Para executar um teste específico de um arquivo, basta executar o comando:
 $ python -m pytest -x tests/nome_do_arquivo.py::test_nome_do_teste
+
+1 - A len()função retorna o número de itens em um objeto
+https://www.w3schools.com/python/ref_func_len.asp
+https://blog.betrybe.com/python/len-python/
+
+O append()método acrescenta um elemento ao final da lista.
+https://www.w3schools.com/python/ref_list_append.asp
+https://www.programiz.com/python-programming/methods/list/append
+
+O pop()método remove o elemento na posição especificada.
+https://www.w3schools.com/python/ref_list_pop.asp
+https://www.simplilearn.com/tutorials/python-tutorial/pop-in-python
