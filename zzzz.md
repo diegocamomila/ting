@@ -44,3 +44,19 @@ https://www.pythontutorial.net/python-basics/python-read-text-file
 O split()método divide uma string em uma lista.
 Você pode especificar o separador, o separador padrão é qualquer espaço em branco. No exercicio pede para usar como separador "\n"
 https://www.w3schools.com/python/ref_string_split.asp
+
+3 - sys - Este módulo fornece acesso a algumas variáveis ​​usadas ou mantidas pelo interpretador e a funções que interagem fortemente com o interpretador. Está sempre disponível.
+https://pt.stackoverflow.com/questions/432235/como-funciona-o-m%C3%B3dulo-sys-do-python-e-para-que-ele-serve
+https://docs.python.org/3/library/sys.html
+
+Em Python, sempre que usamos print(), o texto é gravado no sys.stdout do Python. Este identificador de arquivo recebe informações regulares do programa do usuário. A saída é disponibilizada por meio da saída padrão stdout do módulo sys.
+https://stackoverflow.com/questions/1218933/can-i-redirect-the-stdout-into-some-sort-of-string-buffer
+https://www.geeksforgeeks.org/how-to-print-to-stderr-and-stdout-in-python/
+
+.enqueue() método para adiciona um item à fila
+https://realpython.com/queue-in-python/
+https://www.geeksforgeeks.org/queue-in-python/
+
+4 - .dequeue() método para remover elementos do topo da pilha
+https://realpython.com/queue-in-python/
+https://www.geeksforgeeks.org/queue-in-python/
