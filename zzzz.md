@@ -60,3 +60,13 @@ https://www.geeksforgeeks.org/queue-in-python/
 4 - .dequeue() método para remover elementos do topo da pilha
 https://realpython.com/queue-in-python/
 https://www.geeksforgeeks.org/queue-in-python/
+
+Informaçao de testo errado de commit, visto ser depois do push a alteraçao do mesmo é arriscada, com isso deixo essa resalva.
+
+incorreta - FEAT: Implementará uma classe Queue em ting_file_management/file_proces…
+cometer b022f85a609681d917dd0407598d9e1e6bc986b6
+correta - FEAT: Implementará a funçao process em ting_file_management/file_proces…
+
+incorreta -CHORE: Implementará uma classe Queue em ting_file_management/file_proce…
+cometer e73338e916eb916ff8311b23c90039d0467655c9
+correta - FEAT: Implementará a funçao remove em ting_file_management/file_proces…
